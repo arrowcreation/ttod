@@ -14,7 +14,7 @@ Original file is located at
 ### Install libtorrent and Initialize Session
 """
 
-!apt install python3-libtorrent
+apt install python3-libtorrent
 
 import libtorrent as lt
 
